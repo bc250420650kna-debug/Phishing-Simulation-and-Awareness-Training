@@ -62,4 +62,6 @@ Cybersecurity Intern at **Internee.pk**
 ---
 
 ## 🔗 Project Links
-- **LinkedIn Post:** 
+- **LinkedIn Post:**
+- https://www.linkedin.com/posts/kaynat-naveed-8030a3399_csi619-cybersecurity-phishingawareness-activity-7407885114996793344-5jiG?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGG5EsMB7NDcdn4Y5IKCbF9AdFiSmPl9Gdw
+
